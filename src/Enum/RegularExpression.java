@@ -13,8 +13,6 @@ public class Demo2{
         }
         System.out.println(flag?"输入正确":"输出只能是数字");
 
-
-
         //只能输入数字
         String str2 = "12435423a2";
         boolean flag2 = str2.matches("[0-9]+");
