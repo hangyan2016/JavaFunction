@@ -12,6 +12,7 @@ public class Demo1 {
     }
 }
 
+
 enum Gender {
     MALE("男") {
         @Override
