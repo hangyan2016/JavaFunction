@@ -1,0 +1,10 @@
+.idea
+logger
+*.tmp
+*.debug.exe
+*.log
+bin
+*.bat
+*.exe
+*.class
+out
