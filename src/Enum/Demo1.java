@@ -99,6 +99,5 @@ enum WeekDay {
             return "星期天";
         }
     };
-
     public abstract String getInfo();
 }
